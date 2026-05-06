@@ -35,23 +35,15 @@
 |---|---|---|
 | [**Bangla Codenames**](https://bangla-codenames.vercel.app) | multiplayer word game, zero backend | `JS` `HTML` `CSS` |
 | [**StuBud**](https://stubud-ieok.onrender.com) | study group matching for students | `Flask` `PostgreSQL` `Supabase` |
-| **Shah Ali Dental** | clinic management system in production | `Next.js` `TypeScript` `PostgreSQL` |
+| [**Shah Ali Dental**](https://shahalidentalclinic.com) | clinic management system in production | `Next.js` `TypeScript` `PostgreSQL` |
 
 ---
 
 ## a bit about me
 
 - 🤖 building low-level control pipelines for a humanoid robot at NYU
-- 🎓 GPA 3.58 · Dean's List '25
+- 🎓 New York University
 - 🛠️ comfortable going from firmware to frontend
 - 📍 New York City
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmus2575&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmus2575&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
-
-</div>
