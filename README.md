@@ -37,7 +37,7 @@
 | [**StuBud**](https://stubud-ieok.onrender.com) | study group matching for students | `Flask` `PostgreSQL` `Supabase` |
 | [**Shah Ali Dental**](https://shahalidentalclinic.com) | clinic management system in production | `Next.js` `TypeScript` `PostgreSQL` |
 
----
+----
 
 ## a bit about me
 
