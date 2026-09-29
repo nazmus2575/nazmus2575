@@ -46,4 +46,4 @@
 - 🛠️ comfortable going from firmware to frontend
 - 📍 New York City
 
----
+----
